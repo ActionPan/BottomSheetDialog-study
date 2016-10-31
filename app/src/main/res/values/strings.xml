@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomDialogDemo</string>
+
+    <array name="sexArray">
+        <item>男</item>
+        <item>女</item>
+    </array>
+</resources>
